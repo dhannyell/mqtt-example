@@ -28,3 +28,7 @@ python3 interface.py
 3. On another terminal run any of the other files 
 
 ##### the other files simulate network devices that communicate with the broker
+
+## Optional
+
+You can use the controller.py file to monitor device status in real time without the graphical interface
